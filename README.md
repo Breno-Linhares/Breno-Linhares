@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Breno-Linhares
-- 👀 I’m interested in gamification
+- 👀 I’m interested in gamification and delving into programming.
 - 🌱 I’m currently learning to program in python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
